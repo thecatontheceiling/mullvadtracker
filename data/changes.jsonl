@@ -1,1 +1,2 @@
 {"baseline": true, "events": [], "heading": "2026-10-14 08:36 UTC", "summary": "Initial server list: 566 servers", "time": "2026-10-14T08:36Z"}
+{"events": [{"event": "changed", "field": "active", "hostname": "cy-nic-wg-001", "new": true, "old": false}, {"event": "changed", "field": "active", "hostname": "cy-nic-wg-002", "new": true, "old": false}], "heading": "2026-10-15 03:57 UTC", "summary": "2 went online", "time": "2026-10-15T03:57Z"}
